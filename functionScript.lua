@@ -16,7 +16,7 @@ end
 -- Pero es necesario que siempre llames la funcion por su nombre.
 
 -- Colocamos la funcion y su parametro.
-FunctionName("Bloque1")
+functionName("Bloque1")
 
 -- De esta forma hemos creado una funcion, y hemos llamado la funcion, su resultado fue crear un bloque, y darle el nombre "Bloque1".
 -- Todo esto por medio de la funcion y su parametro.
